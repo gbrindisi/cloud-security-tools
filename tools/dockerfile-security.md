@@ -1,0 +1,1 @@
+{"github": {"name": "dockerfile-security", "description": "A collection of OPA rules to statically analyze Dockerfiles to improve security ", "homepage": null, "owner": "gbrindisi"}, "tags": ["docker", "containers"]}
